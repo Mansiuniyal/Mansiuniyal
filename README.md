@@ -3,7 +3,7 @@
 
 
 **-** I am **Mansi Uniyal**, Currently Pursuing my Masters from Graphic Era Hill University in Computer Applications. <br>
-**-** I am Interesed in Web Development and learning new technologies.
+**-** 
  <br>
 
 
