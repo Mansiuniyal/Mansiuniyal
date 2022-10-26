@@ -2,7 +2,7 @@
 
 
 
-**-** I am **Mansi Uniyal**, Currently Pursuing my Masters from Graphic Era Hill University in Computer Applications. <br>
+
 
  <br>
 
