@@ -1,4 +1,7 @@
+🌱About
 
+   Hi!
+   I am Mansi Uniyal, currently pursuing Master of Computer Application from Graphic Era Hill University
 
 
 
