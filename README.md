@@ -2,7 +2,9 @@
 
    Hi👋
    Good to have you here!
-   I am Mansi Uniyal, currently pursuing Master of Computer Application from Graphic Era Hill University.
+   ✔️I am Mansi Uniyal, currently pursuing Master of Computer Application from Graphic Era Hill University.
+   ✔️I am interested in development and have contributed to some open-source organisations
+   ✔️I have been the participant of open-source event such as HacktoberFest'22.
 
 
 
