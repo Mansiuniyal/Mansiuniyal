@@ -4,7 +4,7 @@
    Good to have you here!<br>
    ✔️I am Mansi Uniyal, currently pursuing Master of Computer Application from Graphic Era Hill University.<br>
    ✔️I am interested in development and have contributed to some open-source organisations.<br>
-   ✔️I have been the participant of open-source event such as HacktoberFest'22.<br>
+   ✔️Successful contribution in open-source event HacktoberFest'22.<br>
 
 
 
