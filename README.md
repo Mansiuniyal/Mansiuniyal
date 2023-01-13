@@ -45,8 +45,6 @@
 ---
  
 
-[![mansi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mansiuniyal&theme=react-dark)](https://github.com/Mansiuniyal/github-readme-activity-graph)
-
   
 
 ---
